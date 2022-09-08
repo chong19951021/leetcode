@@ -1,7 +1,7 @@
 package main
 
 import (
-	"coding/leetcode198"
+	"coding/leetcode198-dajiajieshe"
 	"fmt"
 )
 
@@ -24,7 +24,7 @@ import (
 func main() {
 
 	nums := []int{1, 2, 3, 1}
-	//fmt.Println(leetcode198.Rob(nums))
-	//fmt.Println(leetcode198.Rob2(nums))
-	fmt.Println(leetcode198.Rob3(nums))
+	//fmt.Println(leetcode198-dajiajieshe.Rob(nums))
+	//fmt.Println(leetcode198-dajiajieshe.Rob2(nums))
+	fmt.Println(leetcode198_dajiajieshe.Rob3(nums))
 }
