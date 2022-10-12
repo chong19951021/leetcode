@@ -2,7 +2,7 @@ package main
 
 import (
 	"coding/common"
-	leetcode206_fanzhuanlianbiao "coding/leetcode206-fanzhuanlianbiao"
+	leetcode206_fanzhuanlianbiao "coding/leetcode206-92-fanzhuanlianbiao"
 	"fmt"
 )
 
