@@ -9,7 +9,6 @@ func Merge(nums1 []int, m int, nums2 []int, n int) {
 		if point1 == m {
 			res = append(res, nums2[point2:]...)
 			copy(nums1, res)
-
 			return
 		}
 		if point2 == n {
